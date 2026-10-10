@@ -32,7 +32,7 @@ identifier on the device only. Deleting the App removes this data.
 
 ### 4. Data shared with other players
 
-Games run directly between the participating devices over the local network or
+Games run directly between the participating devices over Wi‑Fi or
 Bluetooth. Other participants in a game receive the player's name, emoji,
 profile photo, answers and votes, and in photo games, only the photos the
 player chooses to share. Other players' profile photos are cached on the device
