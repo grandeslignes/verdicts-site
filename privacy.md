@@ -2,102 +2,111 @@
 title: Verdicts – Privacy Policy
 ---
 
-# Verdicts – Privacy Policy
+# Privacy Policy
 
 *Effective 11 October 2026*
 
-Verdicts is a party game you play with friends who are in the same room. It is
-made by Henri Tunkkari, an independent developer based in Finland ("I", "me").
+> ## In short
+>
+> - Verdicts collects no data. No accounts, servers, ads or tracking.
+> - Your game goes straight between the phones in the room and nowhere else.
+> - Your name, emoji and photo stay on your phone.
+> - Other players' profile photos are cached for up to a day. Photos from photo
+>   games are never saved.
+> - Questions: [hello@getverdicts.app](mailto:hello@getverdicts.app)
 
-**The short version: Verdicts does not collect any data.** There are no
-accounts, servers, ads, analytics or tracking. Nothing you do in the app is
-sent to me. Game data goes only between the phones in your game, directly over
-your local network or Bluetooth.
+## Full policy
 
-## What stays on your phone
+### 1. Scope
 
-The app remembers a few things on your device so you don't have to enter them
-every time:
+This policy describes how the Verdicts mobile application ("the App") handles
+personal data. The App is provided by Henri Tunkkari, an individual developer
+based in Finland ("the Developer"), who is responsible for this policy.
 
-- the name and emoji you play as
-- your profile photo, if you take one, and when you last confirmed it
-- a random ID, so you keep your seat if you drop out and rejoin a game
+### 2. Data collected by the Developer
 
-These are stored only on your phone and may be included in your own device
-backups (for example iCloud Backup). Deleting the app removes them from the
-phone. Copies in existing backups follow your backup settings.
+The App does not collect, transmit or store any personal data on servers
+operated by the Developer or by any third party. The App contains no accounts,
+advertising, analytics or tracking technologies. The Developer does not sell or
+share personal information and does not track users across apps or websites.
 
-## What goes to the other players
+### 3. Data stored on the device
 
-A game runs directly between the phones in it, over your local Wi‑Fi network or
-Bluetooth. No server sits in the middle. During a game, the other players in
-that game receive:
+To avoid re-entering details, the App stores the following on the user's
+device only:
 
-- your name, emoji and profile photo, if you use one
-- your answers and votes
-- in photo games, only the photos you choose to share
+- the player name and emoji;
+- the profile photo, if one is taken, and the time it was last confirmed;
+- a randomly generated identifier used to restore a player's seat when
+  rejoining a game.
 
-Other players' profile photos are kept in the app's cache on your phone for up
-to a day, so they load fast if you play again. Photos shared in photo games are
-only held in the app's memory during the game and are never saved.
+This data may be included in the user's own device backups (for example iCloud
+Backup). Deleting the App removes it from the device; copies in existing
+backups are governed by the user's backup settings.
 
-I can't control what other players do on their own phones, for example taking
-screenshots, so only share what you're comfortable showing the group.
+### 4. Data shared with other players
 
-While you host a game, your phone announces it on the local network so friends
-can find it. Anyone on the same Wi‑Fi can see the game's name (for example
-"Henri's game"). Game data is sent directly between phones without extra
-encryption from the app, so play on a network you trust, such as your home
-Wi‑Fi or a phone hotspot.
+Games run directly between participating devices over the local Wi‑Fi network
+or Bluetooth, without any server. During a game, the other participants of that
+game receive the player's name, emoji, profile photo (if used), answers and
+votes, and, in photo games, only the photos the player chooses to share.
 
-## Permissions
+Other players' profile photos are kept in the App's cache on the device for up
+to one day to speed up later games. Photos shared in photo games are held only
+in the App's memory during the game and are never saved to storage.
 
-Verdicts asks for these permissions only when it needs them. You can turn any
-of them off in Settings.
+While a player hosts a game, the device announces it on the local network.
+Anyone on the same network can see the game's name, which includes the host's
+player name. Game data is transmitted between devices without additional
+encryption by the App; users are advised to play on networks they trust.
 
-- **Local Network:** to find and join games hosted nearby.
-- **Bluetooth:** so friends on Android can join without shared Wi‑Fi.
-- **Camera:** to take your profile photo.
-- **Photos:** photo games show you a few random pictures from your library to
-  pick from. Only the ones you pick are sent to the players in the game. The
-  rest never leave your phone, and nothing is uploaded anywhere.
+The Developer has no control over what other players do on their own devices,
+such as taking screenshots.
 
-## Crash reports
+### 5. Device permissions
 
-If you have turned on "Share With App Developers" in your iPhone's
-Analytics & Improvements settings, Apple may share anonymous crash reports and
-usage statistics with me. I use them only to fix bugs. This is controlled by
-Apple and by your settings, not by the app.
+The App requests the following permissions only when needed. Each can be
+revoked in the device Settings.
 
-## Children
+- **Local Network:** to discover and join nearby games.
+- **Bluetooth:** to let players on Android join without shared Wi‑Fi.
+- **Camera:** to take a profile photo.
+- **Photos:** in photo games, to offer a few random photos from the library to
+  choose from. Only the chosen photos are sent to the players in the game. No
+  photos are uploaded anywhere.
 
-Verdicts is rated 16+, is not directed at children under 16, and does not
+### 6. Crash reports
+
+If the user has enabled "Share With App Developers" in the device's Analytics &
+Improvements settings, Apple may provide the Developer with anonymous crash
+reports and usage statistics. These are used solely to fix defects and are
+governed by Apple's privacy policy and the user's settings.
+
+### 7. Children
+
+The App is rated 16+, is not directed at children under 16, and does not
 knowingly collect data from anyone.
 
-## Who is responsible and your rights
+### 8. Correspondence
 
-Because the app sends nothing to me, I don't hold personal data about you from
-using it. Everything it stores is on your own device, and you can remove it by
-deleting the app.
+If a user contacts the Developer by email, the message and email address are
+used only to respond and are retained only as long as necessary to handle the
+request. The legal basis is legitimate interest (GDPR Art. 6(1)(f)). Users may
+request access to or deletion of this correspondence at any time.
 
-If you email me, I use your message and email address only to reply, and keep
-them only as long as needed to handle your request (legal basis: legitimate
-interest, GDPR Art. 6(1)(f)). You can ask me to see or delete that
-correspondence at any time.
+### 9. Your rights
 
-I do not sell or share personal information, and I don't track you across apps
-or websites.
-
-If you are in the EU/EEA, you have the right to lodge a complaint with a data
-protection authority. In Finland this is the Data Protection Ombudsman
+As the Developer holds no personal data from use of the App, there is no such
+data to access, correct or delete. Data stored on the device can be removed by
+deleting the App. Users in the EU/EEA have the right to lodge a complaint with a
+supervisory authority; in Finland, the Data Protection Ombudsman
 ([tietosuoja.fi](https://tietosuoja.fi)).
 
-## Changes
+### 10. Changes
 
-If this policy changes, the new version will be posted here with a new
-effective date.
+Changes to this policy will be published on this page with a new effective
+date.
 
-## Contact
+### 11. Contact
 
-Questions or requests about this policy:
 [hello@getverdicts.app](mailto:hello@getverdicts.app)
