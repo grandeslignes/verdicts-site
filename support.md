@@ -43,4 +43,4 @@ Verdicts collects no data. See the [Privacy Policy](privacy.html).
 
 ### Which phones does it run on?
 
-iPhone with iOS 18 or later.
+iPhone with iOS 18 or later. An Android version is planned.
