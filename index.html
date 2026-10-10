@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Verdicts – the party game your friends decide</title>
+<meta name="description" content="A party game for friends in the same room. Open the app near each other and you're in. Free, with nothing paywalled.">
+<meta name="theme-color" content="#17151C">
+<meta property="og:title" content="Verdicts">
+<meta property="og:description" content="A party game for friends in the same room. Free, with nothing paywalled.">
+<meta property="og:image" content="icon.png">
+<link rel="icon" type="image/png" href="icon.png">
+<link rel="apple-touch-icon" href="icon.png">
+<style>
+  :root {
+    --bg: #17151C;
+    --fg: #F3ECE2;
+    --muted: rgba(243, 236, 226, 0.62);
+    --line: rgba(243, 236, 226, 0.14);
+  }
+  * { box-sizing: border-box; margin: 0; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    background: var(--bg);
+    color: var(--fg);
+    font: 17px/1.5 -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  main {
+    flex: 1;
+    width: 100%;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 72px 20px 48px;
+    text-align: center;
+  }
+  .icon { width: 128px; height: 128px; margin-bottom: 20px; }
+  h1 {
+    font: 800 clamp(40px, 9vw, 64px)/1.05 -apple-system, BlinkMacSystemFont, "SF Pro Display", sans-serif;
+    letter-spacing: -0.02em;
+  }
+  .tagline {
+    margin: 16px auto 0;
+    max-width: 30em;
+    font-size: 20px;
+    color: var(--muted);
+  }
+  .cta {
+    display: inline-block;
+    margin-top: 32px;
+    padding: 14px 26px;
+    border-radius: 999px;
+    border: 1px solid var(--line);
+    color: var(--muted);
+    font-weight: 600;
+    text-decoration: none;
+  }
+  a.cta { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+  .pillars {
+    list-style: none;
+    padding: 0;
+    margin-top: 72px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+    gap: 16px;
+    text-align: left;
+  }
+  .pillars li {
+    border: 1px solid var(--line);
+    border-radius: 20px;
+    padding: 20px;
+  }
+  .pillars h2 { font-size: 17px; margin-bottom: 6px; }
+  .pillars p { font-size: 15px; color: var(--muted); }
+  footer {
+    padding: 24px 20px 40px;
+    text-align: center;
+    font-size: 14px;
+    color: var(--muted);
+  }
+  footer a { color: inherit; }
+</style>
+</head>
+<body>
+<main>
+  <img class="icon" src="icon.png" alt="">
+  <h1>Verdicts</h1>
+  <p class="tagline">The party game where your friends deliver the verdict. Open the app near each other and you're in.</p>
+  <!-- On launch, replace with: <a class="cta" href="https://apps.apple.com/app/idXXXXXXXXXX">Download on the App Store</a> -->
+  <span class="cta">Coming soon to the App Store</span>
+
+  <ul class="pillars">
+    <li>
+      <h2>Dead easy to play</h2>
+      <p>No codes to type, no accounts. Friends nearby join automatically.</p>
+    </li>
+    <li>
+      <h2>Free, for real</h2>
+      <p>Every game mode is free. Nothing is paywalled.</p>
+    </li>
+    <li>
+      <h2>No servers</h2>
+      <p>The game runs phone to phone. Your answers and photos only go to the players in the room.</p>
+    </li>
+  </ul>
+</main>
+<footer>
+  <a href="privacy.html">Privacy Policy</a> · © 2026 Verdicts
+</footer>
+</body>
+</html>
