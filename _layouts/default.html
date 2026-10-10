@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title }}</title>
+<meta name="theme-color" content="#17151C">
+<link rel="icon" type="image/png" href="{{ '/icon.png' | relative_url }}">
+<link rel="apple-touch-icon" href="{{ '/icon.png' | relative_url }}">
+<style>
+  :root {
+    --bg: #17151C;
+    --fg: #F3ECE2;
+    --muted: rgba(243, 236, 226, 0.62);
+    --line: rgba(243, 236, 226, 0.14);
+  }
+  * { box-sizing: border-box; margin: 0; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    background: var(--bg);
+    color: var(--fg);
+    font: 17px/1.6 -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  header {
+    width: 100%;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 24px 20px 0;
+  }
+  .home {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    color: var(--fg);
+    font-weight: 700;
+    text-decoration: none;
+  }
+  .home img { width: 36px; height: 36px; }
+  main {
+    flex: 1;
+    width: 100%;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 40px 20px 48px;
+  }
+  h1 {
+    font: 800 clamp(32px, 7vw, 44px)/1.1 -apple-system, BlinkMacSystemFont, "SF Pro Display", sans-serif;
+    letter-spacing: -0.02em;
+    margin-bottom: 8px;
+  }
+  h2 { font-size: 20px; margin: 36px 0 8px; }
+  p, ul { margin-bottom: 12px; }
+  ul { padding-left: 22px; }
+  li { margin-bottom: 4px; }
+  em { color: var(--muted); }
+  main a { color: var(--fg); }
+  footer {
+    padding: 24px 20px 40px;
+    text-align: center;
+    font-size: 14px;
+    color: var(--muted);
+  }
+  footer a { color: inherit; }
+</style>
+</head>
+<body>
+<header>
+  <a class="home" href="{{ '/' | relative_url }}"><img src="{{ '/icon.png' | relative_url }}" alt="">Verdicts</a>
+</header>
+<main>
+{{ content }}
+</main>
+<footer>
+  <a href="{{ '/privacy.html' | relative_url }}">Privacy Policy</a> · © 2026 Verdicts
+</footer>
+</body>
+</html>
