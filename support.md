@@ -20,8 +20,7 @@ the game that pops up.
 
 ### My friends can't see my game
 
-- Stay close to each other and keep Wi‑Fi turned on. You don't need to be on
-  the same network.
+- Stay close to each other with Wi‑Fi or Bluetooth turned on.
 - Check that Verdicts is allowed to use the local network: **Settings ›
   Verdicts › Local Network**.
 
